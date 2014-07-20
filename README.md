@@ -45,7 +45,7 @@ specific time.
  
 ##TODO
 
-* [ ]Modeling
+* [ ] Modeling
  * [ ] Building a Lego Model, capable of carrying small loads, a battery and a raspberry pi
  * [ ] A real robot capable of transporting heavier loads
 * [ ] Programming a hardware interface
